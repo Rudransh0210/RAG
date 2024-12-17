@@ -1,0 +1,1 @@
+export const INITIAL_BOT_MESSAGE = "How can I help you?";
